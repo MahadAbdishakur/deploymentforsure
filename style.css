@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "MedievalSharp";
+    background-image:url("https://res.cloudinary.com/mahadabdishakur/image/upload/v1637187125/sku_k2bdoo.gif");
+  }
+  *{
+      margin-left: 250px;
+  }
+  h1{
+      margin-left: -10px;
+  }
